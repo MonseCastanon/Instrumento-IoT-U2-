@@ -27,16 +27,8 @@ https://drive.google.com/drive/folders/10cIoCU271LvDEWKCv6ahvz5eDMtq8n1m?usp=sha
 ![image](https://github.com/user-attachments/assets/85603fca-73d3-4aaf-9d82-4c8e08e68470)
 ![image](https://github.com/user-attachments/assets/1569e7e7-711e-43e8-b5bd-91c921772ba9)
 
-
-
-
-- Documenta tus avances con capturas de pantalla o notas.
-- Describe brevemente cómo aplicarías alguno de los conceptos de Python vistos en el curso en tus proyectos
-  de IoT de esta unidad.
-- Asegúrate de reflejar que completaste el curso para recibir los puntos completos en este criterio.
-  En el README.md, añade un apartado donde describas cómo aplicarías los conocimientos adquiridos en Python al proyecto.
-- Adjunta capturas de pantalla que demuestren el avance en el curso en una carpeta llamada Curso_Python_NetAcad
-  y enlaza esta carpeta en el README.md.
+- En mi opinión creo que las primeras lecciones del curso de Python me ayudaron a
+  realizar mejor mi proyecto y agregarle mejor contenido
 
 > [!IMPORTANT]
 > Este criterio se enfoca en la . Deberás observar el trabajo de uno de tus compañeros y proporcionar retroalimentación
