@@ -50,4 +50,11 @@ descripción del ejercicio y un enlace al video de demostración.
   y si hubo algún aspecto técnico o de calidad que resaltar.
 - Adjunta esta coevaluación en formato de texto claro y objetivo.
 
+  ## Coevaluación
+  Mi coevaluación es acerca de mí nada más, creo que el trabajo está muy bien hecho
+  y mis tiempos aunque no los medí bien fueron exactos para realizar el trabajo y
+  terminarlo aunque sea para la recuperación 1 y así entregar el proyecto, pero lo que
+  mejoraría serían mis tiempos, ya que por querer hacer todo a la vez no puedo
+  llegar a relaizar nada :3
+
 
