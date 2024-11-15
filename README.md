@@ -1,29 +1,22 @@
-> [!IMPORTANT]
+> ## Instrumento de Evaluación U2 R1 - Castañon Sanchez Monserrat Guadalupe
 > Realiza el ejercicio integral de la unidad, usando ESP32 y otros sensores
 de IoT para lograr un funcionamiento completo. Este ejercicio deberá:
 
-- Demostrar el encendido, apagado o control de componentes en respuesta a
-sensores u otros disparadores.
-- Asegúrate de que tu circuito y código estén correctamente conectados y
-explicados en un video de demostración de máximo 2 minutos.
-- Crea una carpeta denominada Ejercicio_Practico_Integral y guarda el
-código fuente y el circuito correspondiente.
-- En el README.md, coloca un enlace a la carpeta junto con una breve
-descripción del ejercicio y un enlace al video de demostración.
+![Imagen de WhatsApp 2024-11-15 a las 11 16 42_cdbd8578](https://github.com/user-attachments/assets/f5092b00-54b7-4d74-a866-ce721115019c)
 
-> [!IMPORTANT]
-> Completa todos los ejercicios en clase en el uso de sensores, actuadores y ESP32:
-- Realiza los ejercicios con precisión y enfócate en mostrar un circuito bien construido y un código funcional.
-- En el README.md, enlaza a esta carpeta y añade descripciones breves para cada ejercicio.
+> ### Video Examen Ejercicio Integral
+https://drive.google.com/file/d/1OlKDqOQiJ0kQCQkxUaQo7fR5CokKlAZ5/view?usp=sharing
 
-> [!IMPORTANT]
-> Presenta tu avance en el proyecto navideño mediante una demostración en clase para el docente y tus compañeros,
-> mostrando el prototipo y explicando las mejoras realizadas en el diseño, los materiales y el software utilizado.
-> Durante la presentación en clase:
+> ## Completa todos los ejercicios en clase en el uso de sensores, actuadores y ESP32:
+### Videos de los códigos implementados en clase
+https://drive.google.com/drive/folders/10cIoCU271LvDEWKCv6ahvz5eDMtq8n1m?usp=sharing
+
+> ### Presenta tu avance en el proyecto navideño mediante una demostración en clase para el docente y tus compañeros, mostrando el prototipo y explicando las mejoras realizadas en el diseño, los materiales y el software utilizado. Durante la presentación en clase:
 
 - Ofrece una breve explicación sobre las mejoras y ajustes que has implementado hasta el momento.
 - Posterior a la revisión en clase, graba un video en el que muestres el funcionamiento del prototipo
   y expliques las características actuales y mejoras realizadas en el proyecto.
+  ### Video del Prototipo
 - En el README.md, enlaza a esta carpeta y describe brevemente los avances logrados hasta el momento.
 
 > [!IMPORTANT]
