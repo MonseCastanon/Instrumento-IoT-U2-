@@ -8,20 +8,27 @@ de IoT para lograr un funcionamiento completo. Este ejercicio deberá:
 https://drive.google.com/file/d/1OlKDqOQiJ0kQCQkxUaQo7fR5CokKlAZ5/view?usp=sharing
 
 > ## Completa todos los ejercicios en clase en el uso de sensores, actuadores y ESP32:
-### Videos de los códigos implementados en clase
+  ### Videos de los códigos implementados en clase
 https://drive.google.com/drive/folders/10cIoCU271LvDEWKCv6ahvz5eDMtq8n1m?usp=sharing
 
-> ### Presenta tu avance en el proyecto navideño mediante una demostración en clase para el docente y tus compañeros, mostrando el prototipo y explicando las mejoras realizadas en el diseño, los materiales y el software utilizado. Durante la presentación en clase:
+> ### Presenta tu avance en el proyecto navideño mediante una demostración en clase para el docente y tus compañeros.
 
 - Ofrece una breve explicación sobre las mejoras y ajustes que has implementado hasta el momento.
 - Posterior a la revisión en clase, graba un video en el que muestres el funcionamiento del prototipo
   y expliques las características actuales y mejoras realizadas en el proyecto.
   ### Video del Prototipo
-- En el README.md, enlaza a esta carpeta y describe brevemente los avances logrados hasta el momento.
+  link
 
-> [!IMPORTANT]
-> Esta sección evalúa tu avance en el  y la aplicación de los conocimientos adquiridos en el contexto de IoT.
 > Completa todas las lecciones del curso de Python en NetAcad:
+
+![image](https://github.com/user-attachments/assets/53a991ba-2c76-4267-9e17-d49094cd0bf1)
+![image](https://github.com/user-attachments/assets/c28afa24-7903-428e-956d-e12ca0197333)
+![image](https://github.com/user-attachments/assets/4d614729-23ee-4a09-a70b-9613e9de9790)
+![image](https://github.com/user-attachments/assets/85603fca-73d3-4aaf-9d82-4c8e08e68470)
+![image](https://github.com/user-attachments/assets/1569e7e7-711e-43e8-b5bd-91c921772ba9)
+
+
+
 
 - Documenta tus avances con capturas de pantalla o notas.
 - Describe brevemente cómo aplicarías alguno de los conceptos de Python vistos en el curso en tus proyectos
